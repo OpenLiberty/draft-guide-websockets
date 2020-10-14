@@ -5,7 +5,7 @@
 //
 // Contributors:
 //   IBM Corporation
-:projectid: rest-client-jquery
+:projectid: websockets
 :page-layout: guide-multipane
 :page-duration: 20 minutes
 :page-releasedate: 2018-05-14
